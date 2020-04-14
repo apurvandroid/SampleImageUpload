@@ -254,7 +254,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(double status) {
-        if (status == TOTAL_PROGRESS) {
+        if (status == 100.0) {
             loading.dismiss();
             alertDialog.dismiss();
         } else {
