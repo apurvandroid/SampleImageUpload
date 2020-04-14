@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372059937802",
+    "firebase_url": "https://sampleimageupload-d9992.firebaseio.com",
+    "project_id": "sampleimageupload-d9992",
+    "storage_bucket": "sampleimageupload-d9992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372059937802:android:007400189071396b88d3f3",
+        "android_client_info": {
+          "package_name": "work.newproject.asus.apurv.sampleimageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372059937802-rk99l0uvdd7gk4oprfs10cliatnv94k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9QP75ZysG9ChQUV_Dl-wKbzmq4TEP_xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372059937802-rk99l0uvdd7gk4oprfs10cliatnv94k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
